@@ -1,0 +1,47 @@
+{
+  "productList": [
+    {
+      "productName": "Pera",
+      "category": "Fruits",
+      "price": 12,
+      "comment": "muy rica",
+      "date": "2022-05-08T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Manzana",
+      "category": "Fruits",
+      "price": 12,
+      "comment": "aburrida",
+      "date": "2022-05-08T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Pepino",
+      "category": "Vegetables",
+      "price": 11,
+      "comment": "Bueno",
+      "date": "2022-04-30T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Ratón",
+      "category": "Electronic",
+      "price": 2.25,
+      "comment": "sin cable",
+      "date": "2022-06-05T22:00:00.000Z",
+      "id": 4
+    }
+    
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

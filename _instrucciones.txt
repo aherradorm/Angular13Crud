@@ -1,0 +1,14 @@
+
+
+1 Install JSON-SERVER: npm install -g json-server
+    y para crear el servidor de pruebas: json-server --watch db.json (crea el fichero {} db.json con datos de prueba)
+2 Install Bootstrap (optional)
+3 Install Angular Material Package:
+    https://material.angular.io/
+    Get Started
+    ng add @angular/material
+
+Bootstrap Material Starter, con 2 y 3 preparado (se supone):
+https://github.com/yshashi/MaterialBootstrapStarter
+
+En https://material.angular.io/components/categories tenemos todos los componentes angualar para implementar en la app
